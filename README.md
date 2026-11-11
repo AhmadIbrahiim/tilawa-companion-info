@@ -1,6 +1,6 @@
 # Quran Time public information
 
-Bilingual usage, privacy policy and GitHub Issues support. Skill source remains private.
+Bilingual usage, privacy policy and GitHub Issues support. Skill source remains private. Quran Time is awaiting certification; the original Tilawa Companion remains available during review.
 
 ## First Light identity
 
