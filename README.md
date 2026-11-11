@@ -1,6 +1,6 @@
 # Quran Time public information
 
-Bilingual usage, privacy policy and GitHub Issues support. Skill source remains private. Quran Time is awaiting certification; the original Tilawa Companion remains available during review.
+Bilingual usage, privacy policy and GitHub Issues support. Skill source remains private. Quran Time was submitted for Amazon certification on 11 November 2026; the original Tilawa Companion remains available during review.
 
 ## First Light identity
 
